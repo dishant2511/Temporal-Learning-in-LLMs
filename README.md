@@ -29,3 +29,7 @@ The results of our research can be accessed from here.
 ## Acknowledgements
 
 This research was conducted under the guidance of Prof. Mayank Singh at IIT Gandhinagar and was granted by Microsoft’s Accelerate Foundation Models Research grant.
+
+## References
+
+Beniwal, H., Nandagopan D, K., & Singh, M. (2024). Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models. arXiv preprint arXiv:2402.11997.
