@@ -1,7 +1,7 @@
 # Temporal Learning in Large Language Models (LLM)
 
 This github repo contains files which were used during the experimental part of the research: **'Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models'**
-by Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh. Repo also has files for the next phase of the research which is to edit the factual knowledge in LLMs and compare it with pre-trained models.
+by Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh. Repo also has files for the next phase of the research which is to figure out the way to edit the factual knowledge in LLMs and compare it with pre-trained models.
 
 ## Project Overview
 
