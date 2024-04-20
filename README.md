@@ -3,7 +3,7 @@
 This github repo contains files which were used during the experimental part of the research:
 
 **Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models**
-By Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh
+by Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh
 
 ## Project Overview
 
@@ -32,4 +32,4 @@ This research was conducted under the guidance of Prof. Mayank Singh at IIT Gand
 
 ## References
 
-Beniwal, H., Nandagopan D, K., & Singh, M. (2024). Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models. arXiv preprint arXiv:2402.11997.
+Beniwal, H., Nandagopan D, K., & Singh, M. (2024). Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models. arXiv preprint arXiv:2402.11997 [cs.CL].
