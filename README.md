@@ -24,7 +24,7 @@ This project focuses on the challenges faced by Large Language Models (LLMs) in 
 
 ## Results
 
-The results of our research can be accessed from here.
+The results of our research can be accessed from research paper.
 
 ## Acknowledgements
 
@@ -32,4 +32,4 @@ This research was conducted under the guidance of Prof. Mayank Singh at IIT Gand
 
 ## References
 
-Beniwal, H., Nandagopan D, K., & Singh, M. (2024). Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models. arXiv preprint arXiv:2402.11997 [cs.CL].
+Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh (2024). Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models. arXiv preprint arXiv:2402.11997 [cs.CL].
