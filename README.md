@@ -2,7 +2,7 @@
 
 This github repo contains files which were used during the experimental part of the research:
 
-**`Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models`**
+**Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models**
 
 By Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh
 
