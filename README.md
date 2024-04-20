@@ -23,4 +23,4 @@ This research was conducted under the guidance of Prof. Mayank Singh at IIT Gand
 
 ## References
 
-Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh (2024). Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models. arXiv:2402.11997 [cs.CL].
+Himanshu Beniwal, Kowsik Nandagopan D, Mayank Singh (2024). **Remember This Event That Year? Assessing Temporal Information and Reasoning in Large Language Models**. arXiv:2402.11997 [cs.CL].
